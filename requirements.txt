@@ -1,0 +1,5 @@
+biokit>=0.4
+pandas>=0.24
+scipy>=1.2
+matplotlib>=3.0
+statsmodels>=0.9
